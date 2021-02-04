@@ -1,0 +1,16 @@
+.appHeader{
+  display: flex;
+  padding: 10px;
+}
+.appHeader>h1{
+  font-family: sans-serif;
+  font-size:18px;
+}
+.appHeader>.MuiSvgIcon-root{
+  font-size: 24px;
+  margin-top:10px;
+  margin-right: 30%;
+}
+.categories{
+  padding: 0px 10px;
+}
